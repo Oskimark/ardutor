@@ -1,4 +1,5 @@
 # ⚡ Arduino Fast Upload Helper
+***si bien podemos usar avrdude o tools con UI similares. esta resuleve todo de manera automatica y con un sible atajo ctrl+alt+u****
 
 Herramienta ligera para **re-subir firmware ya compilado** sin tener que esperar nuevamente el proceso de compilación en el IDE.
 
