@@ -1,0 +1,5 @@
+G:\ardutor\obj\Debug\net6.0-windows\ArduinoHelper.csproj.AssemblyReference.cache
+G:\ardutor\obj\Debug\net6.0-windows\ArduinoHelper.GeneratedMSBuildEditorConfig.editorconfig
+G:\ardutor\obj\Debug\net6.0-windows\ArduinoHelper.AssemblyInfoInputs.cache
+G:\ardutor\obj\Debug\net6.0-windows\ArduinoHelper.AssemblyInfo.cs
+G:\ardutor\obj\Debug\net6.0-windows\ArduinoHelper.csproj.CoreCompileInputs.cache

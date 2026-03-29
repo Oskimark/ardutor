@@ -1,0 +1,10 @@
+G:\ardutor\bin\Release\net10.0-windows\win-x64\publish\ArduinoHelper.exe
+G:\ardutor\bin\Release\net10.0-windows\win-x64\publish\Assets\base.ico
+G:\ardutor\bin\Release\net10.0-windows\win-x64\publish\Assets\ready.ico
+G:\ardutor\bin\Release\net10.0-windows\win-x64\publish\Assets\upload.ico
+G:\ardutor\bin\Release\net10.0-windows\win-x64\publish\ArduinoHelper.dll
+G:\ardutor\bin\Release\net10.0-windows\win-x64\publish\ArduinoHelper.deps.json
+G:\ardutor\bin\Release\net10.0-windows\win-x64\publish\ArduinoHelper.runtimeconfig.json
+G:\ardutor\bin\Release\net10.0-windows\win-x64\publish\ArduinoHelper.pdb
+G:\ardutor\bin\Release\net10.0-windows\win-x64\publish\Newtonsoft.Json.dll
+G:\ardutor\bin\Release\net10.0-windows\win-x64\publish\System.IO.Ports.dll
